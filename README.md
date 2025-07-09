@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi, I'm Braddon Kipngeno
 
-<!--
-**Braddonr/braddonr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills & Technologies
 
-Here are some ideas to get you started:
+#### ☁️ Cloud & DevOps
+`AWS` • `Azure` • `Kubernetes` • `Docker` • `Jenkins` • `GitLab CI` • `CI/CD` • `DevSecOps` • `Ansible` • `Cloudwatch` • `Security Compliance Automation`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛡️ Security Engineering
+`Vulnerability Assessment` • `Penetration Testing` • `OWASP Top 10` • `Threat Modeling` • `Security Code Review` • `Compliance Implementation` • `Incident Response`
+
+#### 🗄️ Databases
+`PostgreSQL` • `MongoDB` • `Redis` • `MariaDB` • `Database Encryption` • `Secure Access Controls` • `Data Protection`
+
+#### 🖥️ Backend Development
+`Python (Django, Flask, FastAPI)` • `Node.js` • `NestJS` • `Express.js` • `PHP` • `Java (Spring Boot)` • `Kotlin` • `Go` • `Secure Coding Practices`
+
+#### 🔗 APIs & Integration
+`RESTful APIs` • `GraphQL` • `OAuth2` • `JWT` • `API Security` • `Microservices` • `Event-Driven Architecture` • `Apache Kafka` • `RabbitMQ`
+
+#### 🧠 Programming Concepts
+`Security Design Patterns` • `Data Structures` • `Algorithms` • `Secure Architecture Design` • `Functional Programming`
+
+#### 🎨 Frontend Development
+`JavaScript` • `TypeScript` • `React` • `Angular` • `Vue` • `XState` • `Client-side Security`
+
+#### 🔒 Security Tools & Protocols
+`OWASP ZAP` • `Burp Suite` • `SSL/TLS` • `TCP/IP` • `Active Directory` • `Kerberos` • `Security Headers`
+
+---
+
+## 📫 Contact
+- [Portfolio Website](https://portfolio-ctigj73yd-braddonr-2447s-projects.vercel.app/)
+- [LinkedIn](https://linkedin.com/in/braddon-k-16a68a154)
+- [Email](mailto:braddonr@gmail.com)
